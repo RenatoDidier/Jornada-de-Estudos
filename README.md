@@ -11,3 +11,5 @@ observação do progresso
 
 **Dia 1 - 17 de Março - Domingo** *70 minutes*
 * Estudei sobre o funcionamento da plataforma do GitHub. Palavras importantes: repositório; branch; commit; markdown;
+
+---
