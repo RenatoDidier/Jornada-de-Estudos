@@ -1,13 +1,13 @@
 # Jornada-de-Estudos
 observação do progresso
 
-'''json
+```json
 {
 "firstName": "Renato",
 "lastName": "Lima",
 "age": 29
 }
-'''
+```
 
-**Dia 1 - Domingo** *70*
+**Dia 1 - Domingo** *70 minutes*
 * Estudei sobre o funcionamento da plataforma do GitHub. Palavras importantes: repositório; branch; commit; markdown;
