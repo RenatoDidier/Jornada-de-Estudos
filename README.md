@@ -1,7 +1,7 @@
 # Jornada-de-Estudos
 observação do progresso
 
-![self-discipline](/imagem/control.jpg)
+![self discipline](C:/Users/rendf/Pictures/control.jpg)
 
 ```json
 {
