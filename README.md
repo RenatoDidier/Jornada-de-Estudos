@@ -1,6 +1,8 @@
 # Jornada-de-Estudos
 observação do progresso
 
+![self-discipline](/imagem/control.jpg)
+
 ```json
 {
 "firstName": "Renato",
