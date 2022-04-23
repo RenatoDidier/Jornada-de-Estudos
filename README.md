@@ -33,4 +33,15 @@ observação do progresso
 **Dia 5 - 21 de Abril 2022 - Quinta** *325 minutos*
 > *Project 1-1 - MarioH* <p> Finalizado. O segredo estava em conseguir diferenciar muito bem a função de cada função de loop. O primeiro Loop For tinha uma função completamente na determinação de linhas. Dentro dele era para criar outras funções for. Para a construção do primeiro bloco, era necessário 2 funções for (para o espaço e para o #). Já a terceira função for, era só fazer uma equação matemática usando como referência o bloco de linhas que resolvia o problema. </p>
 
-> *Project 1-2 - Cash* <p>
+> *Project 1-2 - Credit* 
+
+---
+**Dia 6 - 22 de Abril de 2022 - Sexta** *300 minutos*
+> *Project 1-2 - Credit* <p> </p>
+
+> *Project 1-3 - Cash* 
+> <p> Exercício bem bacana para entender como é o processo de leitura dos dados. </p>
+
+* Project 1 - 1 - MarioH - Feito e otimizado;
+* Project 1 - 2 - Credit - Feito. Estou com uma certa dificuldade para conseguir colocar o exercício dentro de algum loop ou, de alguma forma, ser capaz de reduzir o tamanho do código;
+* Project 1 - 3 - Cash - Feito e otimizado;
