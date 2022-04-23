@@ -45,3 +45,8 @@ observação do progresso
 * Project 1 - 1 - MarioH - Feito e otimizado;
 * Project 1 - 2 - Credit - Feito. Estou com uma certa dificuldade para conseguir colocar o exercício dentro de algum loop ou, de alguma forma, ser capaz de reduzir o tamanho do código;
 * Project 1 - 3 - Cash - Feito e otimizado;
+
+---
+**Dia 7 - 23 de Abril de 2022 - Sábado** *200 minutos*
+* 1 pomodoro na tentativa de otimizar o projeto 1 - 2 - Consegui fazer o projeto ficar otimizado com um loop. O segredo estava em colocar uma variável fora do loop com valor zero e chamá-la novamente no loop para ela ir somando lá dentro.
+* *[CS50x]* Comecei a Week 2 - Arrays. Palavra importantes: I - preprocessing (colocar outros programas que possuem funções com um # inicialmente. Garante ao código que as funções que estão inclusas lá serão usadas em algum momento), II - compiling (assembly language - uma linguagem bastante primitiva. As outras linguagens, quando são compiladas, elas são traduzidas, inicialmente, para esta linguagem antes de se tornar uma linguagem binária), III - assembling (é nesse processo que a tradução para o número binário acontece), IV - linking, preprocessor directives, "a.out" (assembler out - nome padrão dado quando usado a compilação pelo comando clang), três formas de encontrar bugs no código (a - usando printf; b - usando debugger (a.k.a debug50 ./"arquivo compilado"); c - rubber duck - explicar o código para um pato imaginário), string = são arrays de char, nul = \0.
