@@ -56,7 +56,7 @@ observação do progresso
 * *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (commander), argv (vector), return 1, plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
 
 ---
-**Dia 9 - 25 de Abril de 2022 - Segunda** *300 minutos*
+**Dia 9 - 25 de Abril de 2022 - Segunda** *325 minutos*
 * *[CS50x]* - Week 2 - Arrays - Palavras importantes: local variable, global variable, array-elements-data(int and char)-index, passing by value (a função é realizada através de uma cópia de uma variável), passing by reference (particularidade da array. É usado a variável em si na função);
 > *Project 2-0 - Scrabble* - Lembrar: type array[] = {}; != type array[MAX]; 
 
