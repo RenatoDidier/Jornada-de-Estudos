@@ -52,5 +52,14 @@ observação do progresso
 * *[CS50x]* Comecei a Week 2 - Arrays. Palavra importantes: I - preprocessing (colocar outros programas que possuem funções com um # inicialmente. Garante ao código que as funções que estão inclusas lá serão usadas em algum momento), II - compiling (assembly language - uma linguagem bastante primitiva. As outras linguagens, quando são compiladas, elas são traduzidas, inicialmente, para esta linguagem antes de se tornar uma linguagem binária), III - assembling (é nesse processo que a tradução para o número binário acontece), IV - linking, preprocessor directives, "a.out" (assembler out - nome padrão dado quando usado a compilação pelo comando clang), três formas de encontrar bugs no código (a - usando printf; b - usando debugger (a.k.a debug50 ./"arquivo compilado"); c - rubber duck - explicar o código para um pato imaginário), string = são arrays de char, nul = \0.
 
 ---
-**Dia 8 - 24 de Abril de 2020 - Domingo** *80 minutos*
+**Dia 8 - 24 de Abril de 2022 - Domingo** *80 minutos*
 * *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (commander), argv (vector), return 1, plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
+
+---
+**Dia 9 - 25 de Abril de 2022 - Segunda** *300 minutos*
+* *[CS50x]* - Week 2 - Arrays - Palavras importantes: local variable, global variable, array-elements-data(int and char)-index, passing by value (a função é realizada através de uma cópia de uma variável), passing by reference (particularidade da array. É usado a variável em si na função);
+> *Project 2-0 - Scrabble* - Lembrar: type array[] = {}; != type array[MAX]; 
+
+> *Project 2-1 - Readability*
+
+> *Project 2-2 - Substitution*
