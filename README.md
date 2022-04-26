@@ -56,7 +56,7 @@ observação do progresso
 
 ---
 **Dia 8 - 24 de Abril de 2022 - Domingo** *80 minutos*
-* *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (argument count), argv (argument vector or argument list), return 1, plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
+* *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (argument count), argv (argument vector or argument list), return 0 (always false) , return =! 0 (qualquer número, é considerado verdadeiro), plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
 
 ---
 **Dia 9 - 25 de Abril de 2022 - Segunda** *325 minutos*
@@ -75,3 +75,6 @@ observação do progresso
 ![Substitution](https://user-images.githubusercontent.com/103901889/165347669-738d87df-f349-4946-b227-fa1f8fb0a1f5.png)
 
 > *Project 2-3 - Caesar*
+![caesar](https://user-images.githubusercontent.com/103901889/165389938-b43e8b32-fe4c-4cf0-8327-3519b5edd5a8.png)
+
+* *[CS50x]* - Week 3 - Algorithms - Palavras importantes: RAM (Random Access Memory), big O notation "big O of log n" - FOR conditional (o tempo que o algorítimo leva para ser realizado), / O(n^2); O(n log n); O(n); O(log n); O(1); \ , 'símbolo OMEGA' (lower bound) - "Menor tentativa possível" O (upper bound) - "Máximo de tentativa possível", 'símbolo THETA' quando o lower bound == upper bound, linear search, O(log n) - Binary search - Lembrar: rasgar a lista telefônica no meio, string não é um tipo de data per si (junção de char);
