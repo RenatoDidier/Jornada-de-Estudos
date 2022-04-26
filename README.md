@@ -32,15 +32,18 @@ observação do progresso
 ---
 **Dia 5 - 21 de Abril de 2022 - Quinta** *325 minutos*
 > *Project 1-1 - MarioH* <p> Finalizado. O segredo estava em conseguir diferenciar muito bem a função de cada função de loop. O primeiro Loop For tinha uma função completamente na determinação de linhas. Dentro dele era para criar outras funções for. Para a construção do primeiro bloco, era necessário 2 funções for (para o espaço e para o #). Já a terceira função for, era só fazer uma equação matemática usando como referência o bloco de linhas que resolvia o problema. </p>
+![mario](https://user-images.githubusercontent.com/103901889/165348916-4d2e7576-019a-4672-b759-01a8ce973f4e.png)
 
 > *Project 1-2 - Credit* 
 
 ---
 **Dia 6 - 22 de Abril de 2022 - Sexta** *300 minutos*
 > *Project 1-2 - Credit* <p> </p>
+![credit](https://user-images.githubusercontent.com/103901889/165348810-2ea860a5-bef2-41c1-97cf-9843ec1279c6.png)
 
 > *Project 1-3 - Cash* 
 > <p> Exercício bem bacana para entender como é o processo de leitura dos dados. </p>
+![cash](https://user-images.githubusercontent.com/103901889/165348882-ae70cf33-33b3-4812-85ce-e58e7eb606ab.png)
 
 * Project 1 - 1 - MarioH - Feito e otimizado;
 * Project 1 - 2 - Credit - Feito. Estou com uma certa dificuldade para conseguir colocar o exercício dentro de algum loop ou, de alguma forma, ser capaz de reduzir o tamanho do código;
@@ -53,13 +56,22 @@ observação do progresso
 
 ---
 **Dia 8 - 24 de Abril de 2022 - Domingo** *80 minutos*
-* *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (commander), argv (vector), return 1, plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
+* *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (argument count), argv (argument vector or argument list), return 1, plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
 
 ---
 **Dia 9 - 25 de Abril de 2022 - Segunda** *325 minutos*
 * *[CS50x]* - Week 2 - Arrays - Palavras importantes: local variable, global variable, array-elements-data(int and char)-index, passing by value (a função é realizada através de uma cópia de uma variável), passing by reference (particularidade da array. É usado a variável em si na função);
 > *Project 2-0 - Scrabble* - Lembrar: type array[] = {}; != type array[MAX]; 
+![scrabble](https://user-images.githubusercontent.com/103901889/165348670-fc818816-a15d-4fb4-a3c9-0f52554384ce.png)
 
 > *Project 2-1 - Readability*
+![readability](https://user-images.githubusercontent.com/103901889/165348617-3eee7dd2-92ca-4486-befe-d8cf7e32276d.png)
 
 > *Project 2-2 - Substitution*
+
+---
+**Dia 10 - 26 de Abril de 2022 - Terça** *300 minutos*
+> *Project 2-2 - Substituion*
+![Substitution](https://user-images.githubusercontent.com/103901889/165347669-738d87df-f349-4946-b227-fa1f8fb0a1f5.png)
+
+> *Project 2-3 - Caesar*
