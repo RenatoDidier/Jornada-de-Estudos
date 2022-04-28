@@ -36,6 +36,8 @@ observação do progresso
 
 > *Project 1-2 - Credit* 
 
+**No meu tempo livre e caminhando, comecei a escutar vídeos relacionados a area:** Hipster podcast - Ponto positivio: Diversidade de assuntos. Ponto negativo: Foca excessivamente no merchandising da Alura. 
+
 ---
 **Dia 6 - 22 de Abril de 2022 - Sexta** *300 minutos*
 > *Project 1-2 - Credit* <p> </p>
@@ -49,14 +51,20 @@ observação do progresso
 * Project 1 - 2 - Credit - Feito. Estou com uma certa dificuldade para conseguir colocar o exercício dentro de algum loop ou, de alguma forma, ser capaz de reduzir o tamanho do código;
 * Project 1 - 3 - Cash - Feito e otimizado;
 
+**Podcast:** Data Hackers. Ponto negativo: Focado na área de big data.
+
 ---
 **Dia 7 - 23 de Abril de 2022 - Sábado** *200 minutos*
 * 1 pomodoro na tentativa de otimizar o projeto 1 - 2 - Consegui fazer o projeto ficar otimizado com um loop. O segredo estava em colocar uma variável fora do loop com valor zero e chamá-la novamente no loop para ela ir somando lá dentro.
 * *[CS50x]* Comecei a Week 2 - Arrays. Palavra importantes: I - preprocessing (colocar outros programas que possuem funções com um # inicialmente. Garante ao código que as funções que estão inclusas lá serão usadas em algum momento), II - compiling (assembly language - uma linguagem bastante primitiva. As outras linguagens, quando são compiladas, elas são traduzidas, inicialmente, para esta linguagem antes de se tornar uma linguagem binária), III - assembling (é nesse processo que a tradução para o número binário acontece), IV - linking, preprocessor directives, "a.out" (assembler out - nome padrão dado quando usado a compilação pelo comando clang), três formas de encontrar bugs no código (a - usando printf; b - usando debugger (a.k.a debug50 ./"arquivo compilado"); c - rubber duck - explicar o código para um pato imaginário), string = são arrays de char, nul = \0.
 
+**Youtube:** Fabio Akita. Sensacional. Irei começar a escutar esse diariamente.
+
 ---
 **Dia 8 - 24 de Abril de 2022 - Domingo** *80 minutos*
 * *[CS50x]* - Week 2 - Arrays - Palavras importantes: argc (argument count), argv (argument vector or argument list), return 0 (always false) , return =! 0 (qualquer número, é considerado verdadeiro), plaintext, cipher, ciphertext, functions == procedures == methods == black box (Organization; Simplification; Reusability), /return-type name(argument-list);\ , double é duas vezes mais preciso que o float (7 casas decimais),  function definition != function declaration, 
+
+**Audiobook:** The Pragmatic Programmer. Conforme sugerido pelo podcast Hipster.
 
 ---
 **Dia 9 - 25 de Abril de 2022 - Segunda** *325 minutos*
@@ -70,7 +78,7 @@ observação do progresso
 > *Project 2-2 - Substitution*
 
 ---
-**Dia 10 - 26 de Abril de 2022 - Terça** *300 minutos*
+**Dia 10 - 26 de Abril de 2022 - Terça** *330 minutos*
 > *Project 2-2 - Substituion*
 ![Substitution](https://user-images.githubusercontent.com/103901889/165347669-738d87df-f349-4946-b227-fa1f8fb0a1f5.png)
 
@@ -78,3 +86,9 @@ observação do progresso
 ![caesar](https://user-images.githubusercontent.com/103901889/165389938-b43e8b32-fe4c-4cf0-8327-3519b5edd5a8.png)
 
 * *[CS50x]* - Week 3 - Algorithms - Palavras importantes: RAM (Random Access Memory), big O notation "big O of log n" - FOR conditional (o tempo que o algorítimo leva para ser realizado), / O(n^2); O(n log n); O(n); O(log n); O(1); \ , 'símbolo OMEGA' (lower bound) - "Menor tentativa possível" O (upper bound) - "Máximo de tentativa possível", 'símbolo THETA' quando o lower bound == upper bound, linear search, O(log n) - Binary search - Lembrar: rasgar a lista telefônica no meio, string não é um tipo de data per si (junção de char);
+
+---
+**Dia 11 - 27 de Abril de 2022 - Quarta** *330 minutos*
+* *[CS50x]* - Week 3 - ALgorithms - Palavras importantes: data structure - "typedef struct"{} / nameDataType; (criação do tipo de data que será usado na linguagem), data structure do C é diferente dos 'objetos' de outras linguagems (os objetos, além de armazenarem dados, são capazes de armazenar funções. C não possui orientação de objetos), selection sort (procura o elemento que temos interesse) - n(n+1)/2 ~~ [Simplification]-> O(n^2), bubble sort = O(n^2) - o Omega é menor que o slection sort - (n-1 times), recursion (função se auto chamar), merge sort O (n log n).
+
+> *Project 3-1 - Tideman*
