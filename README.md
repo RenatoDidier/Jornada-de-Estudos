@@ -92,3 +92,9 @@ observação do progresso
 * *[CS50x]* - Week 3 - ALgorithms - Palavras importantes: data structure - "typedef struct"{} / nameDataType; (criação do tipo de data que será usado na linguagem), data structure do C é diferente dos 'objetos' de outras linguagems (os objetos, além de armazenarem dados, são capazes de armazenar funções. C não possui orientação de objetos), selection sort (procura o elemento que temos interesse) - n(n+1)/2 ~~ [Simplification]-> O(n^2), bubble sort = O(n^2) - o Omega é menor que o slection sort - (n-1 times), recursion (função se auto chamar), merge sort O (n log n).
 
 > *Project 3-1 - Tideman*
+
+---
+**Dia 12 - 28 de Abril de 2022 - Quinta** *350 minutos*
+> *Project 3-1 - Tideman*
+
+---
