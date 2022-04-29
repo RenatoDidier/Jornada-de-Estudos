@@ -98,3 +98,7 @@ observação do progresso
 > *Project 3-1 - Tideman*
 
 ---
+**Dia 13 - 29 de Abril de 2022 - Sexta** *325 minutos*
+> *Project 3-1 - Tideman*
+
+---
