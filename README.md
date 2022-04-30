@@ -32,7 +32,7 @@ Relato do meu progresso
 ---
 **Dia 5<br>21 de Abril de 2022 - Quinta**<br>*325 minutos de estudo*
 > *Project 1-1 - MarioH* 
-![mario](https://user-images.githubusercontent.com/103901889/165348916-4d2e7576-019a-4672-b759-01a8ce973f4e.png)
+<img src="https://user-images.githubusercontent.com/103901889/165348916-4d2e7576-019a-4672-b759-01a8ce973f4e.png" width="550" height="100">
 
 > *Project 1-2 - Credit* 
 
@@ -41,10 +41,10 @@ Relato do meu progresso
 ---
 **Dia 6<br>22 de Abril de 2022 - Sexta**<br>*300 minutos de estudo*
 > *Project 1-2 - Credit* <p> </p>
-![credit](https://user-images.githubusercontent.com/103901889/165348810-2ea860a5-bef2-41c1-97cf-9843ec1279c6.png)
+<img src="https://user-images.githubusercontent.com/103901889/165348810-2ea860a5-bef2-41c1-97cf-9843ec1279c6.png" width="550" height="100">
 
 > *Project 1-3 - Cash* 
-![cash](https://user-images.githubusercontent.com/103901889/165348882-ae70cf33-33b3-4812-85ce-e58e7eb606ab.png)
+<img src="https://user-images.githubusercontent.com/103901889/165348882-ae70cf33-33b3-4812-85ce-e58e7eb606ab.png" width="550" height="100">
 
 *Podcast: Data Hackers. Ponto negativo: Focado na área de big data.*
 
@@ -64,20 +64,20 @@ Relato do meu progresso
 **Dia 9<br>25 de Abril de 2022 - Segunda**<br>*325 minutos de estudo*
 * **[CS50x] Week 2 - Arrays**<br>*Ideias importantes*<br>local variable // global variable // array-elements-data(int and char)-index // passing by value (a função é realizada através de uma cópia de uma variável) // passing by reference (particularidade da array. É usado a variável em si na função).
 > *Project 2-0 - Scrabble* - Lembrar: type array[] = {}; != type array[MAX]; 
-![scrabble](https://user-images.githubusercontent.com/103901889/165348670-fc818816-a15d-4fb4-a3c9-0f52554384ce.png)
+<img src="https://user-images.githubusercontent.com/103901889/165348670-fc818816-a15d-4fb4-a3c9-0f52554384ce.png" width="550" height="100">
 
 > *Project 2-1 - Readability*
-![readability](https://user-images.githubusercontent.com/103901889/165348617-3eee7dd2-92ca-4486-befe-d8cf7e32276d.png)
+<img src="https://user-images.githubusercontent.com/103901889/165348617-3eee7dd2-92ca-4486-befe-d8cf7e32276d.png" width="550" height="100">
 
 > *Project 2-2 - Substitution*
 
 ---
 **Dia 10<br>26 de Abril de 2022 - Terça**<br>*330 minutos de estudo*
 > *Project 2-2 - Substituion*
-![Substitution](https://user-images.githubusercontent.com/103901889/165347669-738d87df-f349-4946-b227-fa1f8fb0a1f5.png)
+<img src="https://user-images.githubusercontent.com/103901889/165347669-738d87df-f349-4946-b227-fa1f8fb0a1f5.png" width="550" height="100">
 
 > *Project 2-3 - Caesar*
-![caesar](https://user-images.githubusercontent.com/103901889/165389938-b43e8b32-fe4c-4cf0-8327-3519b5edd5a8.png)
+<img src="https://user-images.githubusercontent.com/103901889/165389938-b43e8b32-fe4c-4cf0-8327-3519b5edd5a8.png" width="550" height="100">
 
 * **[CS50x] Week 3 - Algorithms**<br>*Ideias importantes*<br>RAM (Random Access Memory) // big O notation "big O of log n" // FOR conditional (o tempo que o algorítimo leva para ser realizado) // / O(n^2); O(n log n); O(n); O(log n); O(1); \ // 'símbolo OMEGA' (lower bound) -> "Menor tentativa possível" // O (upper bound) -> "Máximo de tentativa possível" // 'símbolo THETA' quando o lower bound == upper bound // linear search // O(log n) // Binary search -> Lembrar: rasgar a lista telefônica no meio, string não é um tipo de data per si (junção de char).
 
