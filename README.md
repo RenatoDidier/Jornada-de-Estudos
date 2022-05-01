@@ -98,3 +98,7 @@ Relato do meu progresso
 ---
 **Dia 14<br>30 de Abril de 2022 - Sábado**<br>*400 minutos de estudo*
 > *Project 3-1 - TideMan*
+
+---
+**Dia 15<br> 01 de Mario de 2022 - Domingo**<br>*100 minutos de estudo*
+> *Project 3-1 - Tideman*
