@@ -100,5 +100,15 @@ Relato do meu progresso
 > *Project 3-1 - TideMan*
 
 ---
-**Dia 15<br> 01 de Mario de 2022 - Domingo**<br>*100 minutos de estudo*
+**Dia 15<br> 01de Maio de 2022 - Domingo**<br>*100 minutos de estudo*
 > *Project 3-1 - Tideman*
+
+---
+**Dia 16<br>02 de Maio de 2022 - Segunda**<br>*475 minutos de estudo*
+> *Project 3-1 - Tideman*
+<img src="https://user-images.githubusercontent.com/103901889/166341325-fdec20cc-14f7-43a0-8c38-fd00fc588ce4.png" width="550" height="100">
+
+> *Project 3-2 - Runoff*
+<img src="https://user-images.githubusercontent.com/103901889/166341526-3004088a-b191-4838-ba67-11789e51c164.png" width="550" height="100">
+
+---
