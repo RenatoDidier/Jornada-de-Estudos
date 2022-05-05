@@ -124,6 +124,6 @@ Relato do meu progresso
 Sites usados como auxílio: https://docs.fileformat.com/
 
 ---
-**Dia 19<br>05 de Mario de 2022**<br>*50 minutos de estudo*
+**Dia 19<br>05 de Mario de 2022**<br>*300 minutos de estudo*
 
 > *Project 4-1 - Filters
