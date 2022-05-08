@@ -132,3 +132,8 @@ Sites usados como auxílio: https://docs.fileformat.com/
 **Dia 20<br>06 de Maio de 2022**<br>*335 minutos de estudo*
 
 > *Project 4-1 - Filters*
+
+---
+**Dia 21<br>07 de Maio de 2022**<br> 175 minutos de estudo*
+
+> *Project 4-1 - Filters*
