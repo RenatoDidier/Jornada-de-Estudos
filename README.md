@@ -139,7 +139,7 @@ Sites usados como auxílio: https://docs.fileformat.com/
 > *Project 4-1 - Filters*
 
 ---
-**Dia 22<br> 08 de Maio de 2022**<br> *350 minutos de estudo*
+**Dia 22<br>08 de Maio de 2022**<br>*350 minutos de estudo*
 
 > *Project 4-1 - Filter-more*
 <img src="https://user-images.githubusercontent.com/103901889/167312030-6dff7452-97f0-41f1-869b-cada0d3b6c97.png" width="550" height="100">
@@ -149,3 +149,14 @@ Sites usados como auxílio: https://docs.fileformat.com/
 
 * **[Codecademy] - JavaScript**<br>Vou começar a reservar 1 pomodoro de 50 minutos por dia no aprendizado da linguagem JavaScript.<br> 7 tipos de dados: Number; String; Boolean; Null; Undefinied; Symbol; Object. // Os 6 primeiros são considerados *"primitive data types"*.  // methods -> Ações que podemos performar. .nameOfMethod() -> forma de chamar o método a ser performado // Variável - container de informação. Além disso, serve para ser reconhecida facilmente pelo seu nome. Ela possui três funções: I - Ter um nome descritivo. II - Armazenar ou atualizar alguma informação. III - Ser referência ou o elemento possível por trazer alguma informação a tona. Lembrar que variáveis não são essencialmente valores. Elas apenas possuem a capacidade de armazenar esses valores. //  
 * **[CS50x] Week 5 - Data Structures**<br>*Ideias importantes*<br>Framework - coleções de biblioteca de uma linguagem // '->' - Built-in que sinaliza para o programa trazer o valor de determinado endereço. Semelhante ao \*p %i. // linked list - bits para o address + bits para o valor // Tradeoff - Diminuir o tempo gasto OU Usar o mínimo possível de espaço na memória // NULL = 0x 0 // binary search tree - linked list sorted // Log(base 2) - Quantas vezes é necessário dividir um número em 2 até chegar no valor 1 // Hash Table - Associa variáveis. Buckets (É a parte array do hash table). É basicamente uma array ordenada que possui a composição dos seus elementos numa linked listed // tries (retrieval) - Big of O 1. Vários arrays com o uso de pointers. O consumo da memória é bastante agressiva, mas a velocidade no search é incomparável. // Abstract data structure. Termos: Queue - FIFO (First In FIrst Out) - Stack - Push - Pop - Dictionary 
+
+---
+**Dia 23<br>09 de Maio de 2022**<br>*350 minutos de estudo*
+
+* **[Codecademy] - Javascript**<br>var -> let & const // ES6 ou ES2015 ou Modern JavaScript- Primeira versão de uma grande atualização na linguagem. // ECMAScript - ES // pré-ES6 == legacy code //
+* **[CS50x] Week 5 - Data Structures**<br>*Ideias importantes*<br>Arrays - insertion -; deletion -; lookup +; fácil de deixar organizada; possível uso mínimo da memória, mas pouca flexibilidade por conta da delimitação da memória total // Linked List - insertion +; deletion + ; busca é ruim, por conta de que ela é linear; difícil de deixar organizada; tem o uso de memória bastante eficiente, no entanto não tão bom quanto o array // Hash tables [Hash Code or Hash Function + Array - Collition -> Chaining] - insertion +; deletion +; o search é bem melhor que o linked list; não serve para organizar dados organizados; o uso da memória consegue escalonar muito rápido // Tries [Root node & Leaf node] - insertion ++ (mas complexo); deletion ++; Search (ou LookUp) é bastante rápido. Só perde para o Array; os dados já estão organizados; consumo bem substancioso da memória // 
+
+> *Project 5-1 - Inheritance*
+<img src="https://user-images.githubusercontent.com/103901889/167472457-0ea2bf32-4798-44e9-af06-4b0c379f83d7.png" width="550" height="100">
+
+> *Project 5-2 - Speller*
