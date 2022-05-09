@@ -134,6 +134,18 @@ Sites usados como auxílio: https://docs.fileformat.com/
 > *Project 4-1 - Filters*
 
 ---
-**Dia 21<br>07 de Maio de 2022**<br> 175 minutos de estudo*
+**Dia 21<br>07 de Maio de 2022**<br> *175 minutos de estudo*
 
 > *Project 4-1 - Filters*
+
+---
+**Dia 22<br> 08 de Maio de 2022**<br> *350 minutos de estudo*
+
+> *Project 4-1 - Filter-more*
+<img src="https://user-images.githubusercontent.com/103901889/167312030-6dff7452-97f0-41f1-869b-cada0d3b6c97.png" width="550" height="100">
+
+> *Project 4-2 - Filter-less*
+<img src="https://user-images.githubusercontent.com/103901889/167312094-99aa4c30-a0bf-4af2-a289-934ff4e2abd9.png" width="550" height="100">
+
+* **[Codecademy] - JavaScript**<br>Vou começar a reservar 1 pomodoro de 50 minutos por dia no aprendizado da linguagem JavaScript.<br> 7 tipos de dados: Number; String; Boolean; Null; Undefinied; Symbol; Object. // Os 6 primeiros são considerados *"primitive data types"*.  // methods -> Ações que podemos performar. .nameOfMethod() -> forma de chamar o método a ser performado // Variável - container de informação. Além disso, serve para ser reconhecida facilmente pelo seu nome. Ela possui três funções: I - Ter um nome descritivo. II - Armazenar ou atualizar alguma informação. III - Ser referência ou o elemento possível por trazer alguma informação a tona. Lembrar que variáveis não são essencialmente valores. Elas apenas possuem a capacidade de armazenar esses valores. //  
+* **[CS50x] Week 5 - Data Structures**<br>*Ideias importantes*<br>Framework - coleções de biblioteca de uma linguagem // '->' - Built-in que sinaliza para o programa trazer o valor de determinado endereço. Semelhante ao \*p %i. // linked list - bits para o address + bits para o valor // Tradeoff - Diminuir o tempo gasto OU Usar o mínimo possível de espaço na memória // NULL = 0x 0 // binary search tree - linked list sorted // Log(base 2) - Quantas vezes é necessário dividir um número em 2 até chegar no valor 1 // Hash Table - Associa variáveis. Buckets (É a parte array do hash table). É basicamente uma array ordenada que possui a composição dos seus elementos numa linked listed // tries (retrieval) - Big of O 1. Vários arrays com o uso de pointers. O consumo da memória é bastante agressiva, mas a velocidade no search é incomparável. // Abstract data structure. Termos: Queue - FIFO (First In FIrst Out) - Stack - Push - Pop - Dictionary 
