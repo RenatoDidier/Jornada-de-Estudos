@@ -162,6 +162,8 @@ Sites usados como auxílio: https://docs.fileformat.com/
 > *Project 5-2 - Speller*
 
 ---
-**Dia 24<br>10 de Maio de 2022**<br>*50 minutos de estudo*
+**Dia 24<br>10 de Maio de 2022**<br>*325 minutos de estudo*
+
+* **Alterei [Codecademy] pelo [FreeCodeCamp] - JavaScript**<br>Alterei por conta da quantidade de relatos positivos no reddit sobre este em comparação daquele.
 
 > *Project 5-2 - Speller*
