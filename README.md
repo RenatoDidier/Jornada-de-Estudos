@@ -160,3 +160,8 @@ Sites usados como auxílio: https://docs.fileformat.com/
 <img src="https://user-images.githubusercontent.com/103901889/167472457-0ea2bf32-4798-44e9-af06-4b0c379f83d7.png" width="550" height="100">
 
 > *Project 5-2 - Speller*
+
+---
+**Dia 24<br>10 de Maio de 2022**<br>*50 minutos de estudo*
+
+> *Project 5-2 - Speller*
