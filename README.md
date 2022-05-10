@@ -164,6 +164,6 @@ Sites usados como auxílio: https://docs.fileformat.com/
 ---
 **Dia 24<br>10 de Maio de 2022**<br>*325 minutos de estudo*
 
-* **Alterei [Codecademy] pelo [FreeCodeCamp] - JavaScript**<br>Alterei por conta da quantidade de relatos positivos no reddit sobre este em comparação daquele.
+* **Alterei [Codecademy] pelo [FreeCodeCamp] - JavaScript**<br>Alterei por conta da quantidade de relatos positivos no reddit sobre este em comparação daquele.<br> Não é possível alterar o caracter de uma string usando array. É necessário mudar a string por completo para conseguir fazer alguma alteração.
 
 > *Project 5-2 - Speller*
