@@ -164,6 +164,14 @@ Sites usados como auxílio: https://docs.fileformat.com/
 ---
 **Dia 24<br>10 de Maio de 2022**<br>*325 minutos de estudo*
 
+> *Project 5-2 - Speller*
+
 * **Alterei [Codecademy] pelo [FreeCodeCamp] - JavaScript**<br>Alterei por conta da quantidade de relatos positivos no reddit sobre este em comparação daquele.<br> Não é possível alterar o caracter de uma string usando array. É necessário mudar a string por completo para conseguir fazer alguma alteração.
 
+---
+**Dia 25<br>11 de Maio de 2022**<br>*325 minutos de estudo*
+
 > *Project 5-2 - Speller*
+<img src="https://user-images.githubusercontent.com/103901889/167949536-998eb6fe-c255-4cfe-a1cf-420294262592.png" width="550" height="100">
+
+* **[FreeCodeCamp] - JavaScript**<br>Variáveis globais -> É só não usar o prefixo "let" e "const". // É possível ter variável global e local com o mesmo nome. Quando o mesmo ocorre, há uma preferência no valor do local dentro da função. // === -> Strict equality -> Ele observa, além do valor, se o tipo das duas variáveis que estão sendo analisadas é o mesmo.
