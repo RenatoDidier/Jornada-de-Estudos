@@ -175,3 +175,14 @@ Sites usados como auxílio: https://docs.fileformat.com/
 <img src="https://user-images.githubusercontent.com/103901889/167949536-998eb6fe-c255-4cfe-a1cf-420294262592.png" width="550" height="100">
 
 * **[FreeCodeCamp] - JavaScript**<br>Variáveis globais -> É só não usar o prefixo "let" e "const". // É possível ter variável global e local com o mesmo nome. Quando o mesmo ocorre, há uma preferência no valor do local dentro da função. // === -> Strict equality -> Ele observa, além do valor, se o tipo das duas variáveis que estão sendo analisadas é o mesmo.
+
+---
+**Dia 26<br> 12 de Maio de 2022**<br>*325 minutos de estudo*
+
+* **Revisão - C**<br>Site com os tipos de dados lidos no C: https://en.wikipedia.org/wiki/C_data_types#stdint.h 
+
+* **[CS50x] Week 6 - Python 3**<br>*Ideias importantes*<br>Some quase por completo o semicolon // Não é necessário colocar \n para iniciar uma nova linha agora // indentation é bastante importante agora // print(f"Hello, {variable}.") // Não existe: i++ (apenas i += 1) // if x > y : // elif = else if // True = true (false as same) // A formatação de Array no C é chamada de List no Python. Além disso, essa list é mais semelhante ao linked list do que o array per se. // 9 Tipos da dados: bool; float; int; str, range, list, tuple (coordenadas), dict (hash table), set (duplication) // get_float; get_int; get_string // #include <cs50.h> -> import cs50 (or from cs50 import get_float, get_int) // Em linguagem POO (Programação Orientada a Objetos), é possível colocar funções dentro dos struct. Quando isso ocorre, não chamamos mais essas funções de funções, mas sim de objetos //  exceptions - > estipular o limite da obetanção de uma variável. (try: / except ValueError:) // As strings não são mais uma array de character, já que char não é um tipo de dado suportado em Python. Portanto, é impossível mudar apenas uma letra de uma palavra // letters_only = True if input().isalpha() else False // Apenas dois loops: for & while // num = [] or num = list() // .append(numberValue) .insert(position, numberValue) // Tuple - Ordenado e imutável. // list [] - dictionaries {} tuple () // if __name__ == "__main__" \n main() // x ** 2 == x^2 //   <br>https://docs.python.org/3/ 
+
+* **[FreeCodeCamp] - Javascript**<br>
+
+> *Project 6-1 - World Cup* 
