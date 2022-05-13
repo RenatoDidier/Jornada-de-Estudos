@@ -177,7 +177,7 @@ Sites usados como auxílio: https://docs.fileformat.com/
 * **[FreeCodeCamp] - JavaScript**<br>Variáveis globais -> É só não usar o prefixo "let" e "const". // É possível ter variável global e local com o mesmo nome. Quando o mesmo ocorre, há uma preferência no valor do local dentro da função. // === -> Strict equality -> Ele observa, além do valor, se o tipo das duas variáveis que estão sendo analisadas é o mesmo.
 
 ---
-**Dia 26<br> 12 de Maio de 2022**<br>*325 minutos de estudo*
+**Dia 26<br>12 de Maio de 2022**<br>*325 minutos de estudo*
 
 * **Revisão - C**<br>Site com os tipos de dados lidos no C: https://en.wikipedia.org/wiki/C_data_types#stdint.h 
 
@@ -186,3 +186,22 @@ Sites usados como auxílio: https://docs.fileformat.com/
 * **[FreeCodeCamp] - Javascript**<br>
 
 > *Project 6-1 - World Cup* 
+
+---
+**Dia 27<br>13 de Maio de 2022**<br>*375 minutos de estudo*
+
+> *Project 6-1 - World Cup*
+<img src="https://user-images.githubusercontent.com/103901889/168391535-9bdcb45f-6ced-42f4-86f0-3f4886a95846.png" width="550" height="100">
+
+> *Project 6-2 - Mario*
+<img src="https://user-images.githubusercontent.com/103901889/168391628-8eeeb718-1246-4c3a-b815-ec79977ffeb0.png" width="550" height="100">
+
+> *Project 6-3 - Credit*
+<img src="https://user-images.githubusercontent.com/103901889/168391816-d346f137-045d-455c-a2fc-de9b5726a4f7.png" width="550" height="100">
+
+> *Project 6-4 - Readability*
+<img src="https://user-images.githubusercontent.com/103901889/168391856-8d2f3238-6605-43ba-89e1-b44475bdc6ae.png" width="550" height="100">
+
+> *Project 6-5 - DNA*
+
+* **[FreeCodeCamp] - JavaScript**
