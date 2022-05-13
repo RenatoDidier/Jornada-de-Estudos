@@ -204,4 +204,4 @@ Sites usados como auxílio: https://docs.fileformat.com/
 
 > *Project 6-5 - DNA*
 
-* **[FreeCodeCamp] - JavaScript**
+* **[FreeCodeCamp] - JavaScript**<br> Acessando os elementos de um objeto. Através do "."
