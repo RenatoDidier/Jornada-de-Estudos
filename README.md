@@ -205,3 +205,12 @@ Sites usados como auxílio: https://docs.fileformat.com/
 > *Project 6-5 - DNA*
 
 * **[FreeCodeCamp] - JavaScript**<br> Acessando os elementos de um objeto. Através do "." ou através do nome do elemento do objeto ["name"]
+
+---
+**Dia 28<br>14 de Maio de 2022**<br>*175 minutos de estudo*
+
+> *Project 6-5 - DNA*
+<img src="https://user-images.githubusercontent.com/103901889/168429891-cb0665ab-f2c2-4c10-9734-a607287cce67.png" width="550" height="100">
+
+* **[CS50x] Week 7 - SQL**<br>*Ideias importantes*<br>Set -> É uma list que limita a repetição de alguma variável. Para acrescentar valores nela, em vez de usar o .append(), usamos o método .add()  
+
