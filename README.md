@@ -224,3 +224,13 @@ Sites usados como auxílio: https://docs.fileformat.com/
 * **[FreeCodeCamp] - JavaScript**<br>Nested objects; 
 
 Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Reddit<br>https://www.w3schools.com/sql/ - Recomendação do CS50x
+
+---
+**Dia 30<br>17 de Maio de 2022**<br>*325 minutos de estudos*
+
+> *Project 7-1 - Song*
+<img src="https://user-images.githubusercontent.com/103901889/168928740-b7c8224f-e505-4f19-8393-bfbccd65d5c5.png" width="550" height="100">
+
+> *Project 7-2 - IMDb Movies*
+
+* **FreeCodeCamp estava em manutenção. Entrei num outro site de ensino chamado The Odin Project.**
