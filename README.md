@@ -214,3 +214,13 @@ Sites usados como auxílio: https://docs.fileformat.com/
 
 * **[CS50x] Week 7 - SQL**<br>*Ideias importantes*<br>Set -> É uma list que limita a repetição de alguma variável. Para acrescentar valores nela, em vez de usar o .append(), usamos o método .add()  
 
+---
+**Dia 29<br>16 de Maio de 2022**<br>*275 minutos de estudo*
+
+**[CS50x] Week7 - SQLite**<br>*Ideias importantes*<br>Structured Query Language // 'função' sorted(key=outraFunção, reverse= True) o primeiro argumento faz com que seja possível escolher qual será o valor usado como referência para a ordenação. O reverse faz com que seja uma ordenação contrária (padrão - crescente / reverse - decrescente) // função sem nome: lambda. Exemplo do modo de uso: lambda title: titles[title] // regular expression -> um assunto bem interessante para estudar // SQL CRUD (4 fundamentos básicos de operações de dados) - Create (insert), Select, Update, Delete (drop) // sqlite -> fileName.db // Data type -> Integer, numeric (data e tempo), blob (binary large object), real (float), text (char - fixo & varchar). // Primary key (id) - Será usado para representar unicamente cada linha & Foreign key (show_id) - se refere a alguma coluna de uma outra tabela // Indexes / B-Trees // SQL injection attack // race conditions - usuários usando os mesmos dados simultanemanete -> software locks & transactions  // canonicalized or standardized - Alteração nos inputs recebidos para que informações de um mesmo valor, mas descrito de forma diferente sejam reconhecidos como idênticos // Relational databases - São programas que armazenam dados principalmente em arquivos de uma forma estrutural que nos permite fazer pesquisas e organizar os dados de forma mais eficiente // Programas para manipulações de bancos de dados: MySQL, Sqlite, Oracle Database, PostgreSQL e Microsoft Access // SELECT column FROM table -> WHERE (boolean expression) & LIKE (filtrar através de textos semelhantes) & ORDER BY & LIMIT (limitar a quantidade de linha) & GROUP BY & % (semelhante ao .* do regular expression. Exemplo: "%of thrones". Ele irá procurar qualquer tipo de palavra que contenha no final as palavras of thrones.) 
+
+> *Project 7-1 - Song*
+
+* **[FreeCodeCamp] - JavaScript**<br>Nested objects; 
+
+Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Reddit<br>https://www.w3schools.com/sql/ - Recomendação do CS50x
