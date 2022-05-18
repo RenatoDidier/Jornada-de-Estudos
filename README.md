@@ -244,3 +244,7 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 > *Project 7-3 - Fiftyville*
 
 * **[FreeCodeCamp] - Responsive Web Design (HTML & CSS)**
+
+**Site recomendado pelo CS50x com vários jogos de solução de mistério usando SQL:**<br>http://mystery.knightlab.com/
+
+---
