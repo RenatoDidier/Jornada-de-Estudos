@@ -233,4 +233,14 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 
 > *Project 7-2 - IMDb Movies*
 
-* **FreeCodeCamp estava em manutenção. Entrei num outro site de ensino chamado The Odin Project.**
+* **FreeCodeCamp estava em manutenção. Entrei num outro site de ensino chamado The Odin Project (FREE) e Fronted Mentor (interessante para fazer pós CS50w).**
+
+---
+**Dia 31<br>18 de Maio de 2022**<br>*325 minutos de estudo*
+
+> *Project 7-2 - IMDb Movies*
+<img src="https://user-images.githubusercontent.com/103901889/169169848-6b2fae68-61b9-4235-9871-3d1a9e35cfdf.png" width="550" height="100">
+
+> *Project 7-3 - Fiftyville*
+
+* **[FreeCodeCamp] - Responsive Web Design (HTML & CSS)**
