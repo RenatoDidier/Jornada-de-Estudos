@@ -260,3 +260,8 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[CS50x] - Week 8 - HTML & CSS & JavaScript**<br>*Ideias importantes*<br>DOM (Document Object Model) // Object - Data (Propriedades) or **Objects** or Functions (Métodos) . Por conta disso, um objeto pode se tornar bastante complexo // Document Object - Um objeto que organiza praticamente todo o conteúdo e uma página web // jQuery - biblioteca bastante usada para otimizar a digitação de algumas expressões 
 
 * **[FreeCodeCamp] - Responsive Web Design**
+
+---
+**Dia 34<br>21 de Maio de 2022**<br>*250 minutos de estudo*
+
+* **[FreeCodeCamp] - Responsive Web Design**
