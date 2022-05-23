@@ -270,3 +270,8 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 **Dia 35<br>22 de Maio de 2022**<br>*100 minutos de estudo*
 
 * **[FreeCodeCamp] - Responsive Web Design**
+  
+---
+  * **Dia 36<br>23 de Maio de 2022**<br>*150 minutos de estudo*
+  
+* **[FreeCodeCamp] - Responsive Web Design**
