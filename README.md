@@ -272,12 +272,12 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[FreeCodeCamp] - Responsive Web Design**
   
 ---
-* **Dia 36<br>23 de Maio de 2022**<br>*150 minutos de estudo*
+**Dia 36<br>23 de Maio de 2022**<br>*150 minutos de estudo*
   
 * **[FreeCodeCamp] - Responsive Web Design**
   
 ---
-**Dia 36<br>24 de Maio de 2022**<br>*300 minutos de estudo*
+**Dia 37<br>24 de Maio de 2022**<br>*300 minutos de estudo*
   
 * **[FreeCodeCamp] - Responsive Web Design**
   Fontes usadas em projetos:<br>
@@ -287,11 +287,11 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
   https://fonts.googleapis.com/css?family=Anton|Baskervville|Raleway&display=swap
   
 ---
-  * **Dia 37<br>25 de Maio de 2022**<br>*100 minutos de estudo*
+**Dia 38<br>25 de Maio de 2022**<br>*100 minutos de estudo*
 * **[FreeCodeCamp] - Responsive Web Design**
   
 ---
-**Dia 37<br>26 de Maio de 2022**<br>*250 minutos de estudo*
+**Dia 39<br>26 de Maio de 2022**<br>*250 minutos de estudo*
 * **[FreeCodeCamp] - Responsive Web Design**
 
 * **[FreeCodeCamp] - Front End Development Libraries**
