@@ -286,6 +286,13 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
   
   https://fonts.googleapis.com/css?family=Anton|Baskervville|Raleway&display=swap
   
-  ---
+---
   * **Dia 37<br>25 de Maio de 2022**<br>*100 minutos de estudo*
 * **[FreeCodeCamp] - Responsive Web Design**
+  
+---
+**Dia 37<br>26 de Maio de 2022**<br>*250 minutos de estudo*
+* **[FreeCodeCamp] - Responsive Web Design**
+
+* **[FreeCodeCamp] - Front End Development Libraries**
+  
