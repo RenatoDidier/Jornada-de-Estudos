@@ -295,4 +295,8 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[FreeCodeCamp] - Responsive Web Design**
 
 * **[FreeCodeCamp] - Front End Development Libraries**
+
+---
+**Dia 40<br> 27 de Maio de 2022**<br>*100 minutos de estudo*
+* **[FreeCodeCamp] - Front End Devlopment Libraries**
   
