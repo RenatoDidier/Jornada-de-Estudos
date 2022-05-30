@@ -298,5 +298,8 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 
 ---
 **Dia 40<br> 27 de Maio de 2022**<br>*100 minutos de estudo*
-* **[FreeCodeCamp] - Front End Devlopment Libraries**
+* **[FreeCodeCamp] - Front End Development Libraries**
   
+---
+**Dia 41<br>29 de Maio de 2022**<br>*150 minutos de estudo*
+* **[FreeCodeCamp] - Front End Development Libraries**
