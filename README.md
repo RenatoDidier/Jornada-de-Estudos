@@ -311,3 +311,13 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[CS50x] - Week 8 - HTML & CSS & JavaScript**
 
 > *Project 8-1 - Trivia*
+
+---
+**Dia 42<br> 31 de Maio de 2022**<br>*325 minutos de estudo*
+> *Project 8-1 - Trivia*
+<img src="https://user-images.githubusercontent.com/103901889/171274378-a114c80b-d635-42b7-8657-87dc9e830561.png" width="550" height="100">
+  
+> *Project 8-2 - Homepage*
+<img src="https://user-images.githubusercontent.com/103901889/171274548-b4a147a9-ba59-4ffa-8d4f-d9707474e656.png" width="550" height="100">
+  
+* **[CS50x] - Week 9 - Flask**<br>*Ideias importantes*<br>path or route - O caminho para acessar determinado arquivo // http-server -> static website // flask -> framework do python // requirements.txt -> É um procedimento padrão colocar as diferentes bibliotecas usadas na programação de python nesse arquivo txt. Além disso, dois outros folders: templates/ (Todo HTML que eu escrever) e static/ (Todos os outros arquivos que eu usar: img, css, js, etc) // Decorator (Python) @variableName -> É uma função que muda outra função. // "flask run" // HTML write -> {{ variableName }} // Flask write -> name=name (primeira variável será como deve ser escrito no HTML, já o segundo é a variável que criamos em python) // layout.html -> {% block body %}{% endblock %} / {% extends "layout.html" %} - Função do Flask para limitar a repetição 
