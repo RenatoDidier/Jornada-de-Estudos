@@ -303,3 +303,11 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 ---
 **Dia 41<br>29 de Maio de 2022**<br>*150 minutos de estudo*
 * **[FreeCodeCamp] - Front End Development Libraries**
+
+---
+**Dia 42<br> 30 de Maio de 2022**<br>*250 minutos de estudo*
+* **[FreeCodeCamp] - Front End Development Libraries**
+
+* **[CS50x] - Week 8 - HTML & CSS & JavaScript**
+
+> *Project 8-1 - Trivia*
