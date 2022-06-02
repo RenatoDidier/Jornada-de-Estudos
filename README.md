@@ -328,3 +328,11 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[CS50x] Week 9 - Flask**<br>*Ideias importantes*<br>requests.args.get (get request) requests.form.get (form request & methods["POST"]) // MVC (Model View Controller) controller (code) -> manipulates -> model (database) -> updates -> view (HTML - templates) -> sees -> user -> uses -> controller // from flask import Flask, render_template, request [from module import function]// For in HTML using flask " {% for sport in sports %} {% endfor %} " // Set-Cookie: session=value -> Após baixar o website no computador, fica salvo a página e todas as alterações realizadas na página através do "cookies". // API - Application Programming Interface // Flask (bem leve) possui a mesma função que outros frameworks como Django e Pyramid // First Time (CommandLine) export FLASK_APP=nameOfApplication.py \n export FLASK_DEBUG=1 \n flask run [Depois de configurar a primeira vez a execução correta do flask, só será necessário escrever "flask run" para rodar o aplicativo configurado] // JINJA - Junção do Python com HTML. // Ajax - Asynchronous JavaScript and XML [ Hoje em dia, em vez de usar o XML, é usado o JSON, já que o mesmo, além de ser mais leve, já está incluído no JavaScript] // readyStates = 4 & status = 200 -> UPDATE com AJAX. É bastante usado em conjunto com o JQuery (https://api.jquery.com/jquery.ajax/) 
 
 > *Project 9-1 - Birthdays*
+
+---
+**Dia 44<br>02 de Junho de 2022**<br>*330 minutos de estudo*
+
+> *Project 9-1 - Birthdays*
+<img src="https://user-images.githubusercontent.com/103901889/171739510-ca5e242a-ead7-4f36-b3c7-7fe893f37773.png" width="550" height="100">
+
+> *Project 9-2 - Finance*
