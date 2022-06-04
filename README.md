@@ -336,3 +336,13 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 <img src="https://user-images.githubusercontent.com/103901889/171739510-ca5e242a-ead7-4f36-b3c7-7fe893f37773.png" width="550" height="100">
 
 > *Project 9-2 - Finance*
+
+---
+**Dia 45<br>03 de Junho de 2022**<br>*325 minutos de estudo*
+
+> *Project 9-2 - Finance*
+
+---
+**Dia46<br>04 de Junho de 2022**<br>*325 minutos de estudo*
+
+> *Project 9-2 - Finance*
