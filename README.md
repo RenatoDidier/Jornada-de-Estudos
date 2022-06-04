@@ -343,6 +343,6 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 > *Project 9-2 - Finance*
 
 ---
-**Dia46<br>04 de Junho de 2022**<br>*325 minutos de estudo*
+**Dia 46<br>04 de Junho de 2022**<br>*325 minutos de estudo*
 
 > *Project 9-2 - Finance*
