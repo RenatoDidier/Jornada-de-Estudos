@@ -329,3 +329,7 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 * **[CS50x] Foldable/Dual-Screen From Factors**
 
 > *Final Project - CS50x - Web app*
+
+---
+**Dia 48<br>06 de Junho de 2022 - Segunda**<br>*330 minutos de estudo*
+> *Final Project - CS50x - Web app - 4Share*
