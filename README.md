@@ -340,4 +340,8 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 
 ---
 **Dia 50<br>08 de Junho de 2022 - Quarta**<br>*250 minutos de estudo*
-> *Final Project - CS50x - Web app - 4Share
+> *Final Project - CS50x - Web app - 4Share*
+
+---
+**Dia 51<br>09 de Junho de 2022 - Quinta**<br>*335 minutos de estudo*
+> *Final Project - CS50x - Web app - 4Share*
