@@ -360,3 +360,12 @@ Sites auxiliares:<br>https://developer.mozilla.org/en-US/ - Recomendação do Re
 https://www.youtube.com/watch?v=utWRbzWFJUM
 
 > *Week4 [Memory] - Project - Restore
+
+---
+**Dia 55<br>14 de Junho de 2022 - Terça**<br>*100 minutos de estudo*
+> *Week4 [Memory] - Project - Restore
+<img src="https://user-images.githubusercontent.com/103901889/173591410-320c2a34-a1c4-4b8c-8e48-24b2d0ebe939.png" width="550" height="100">
+
+**Certificado [CS50x]**<br>https://certificates.cs50.io/c2504265-696b-44cb-a718-c33a519beaf2.pdf?size=letter
+
+* **Organização do material dos cursos: CS50x e FreeCodeCamp**
