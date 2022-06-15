@@ -369,3 +369,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Certificado [CS50x]**<br>https://certificates.cs50.io/c2504265-696b-44cb-a718-c33a519beaf2.pdf?size=letter
 
 * **Organização do material dos cursos: CS50x e FreeCodeCamp**
+
+---
+**Dia 56<br>15 de Junho de 2022 - Quarta**<br>*325 minutos de estudo*
+
+* **[CS50w] Week 0 - HTML, CSS**
+
+> *Project 0 - Search*
