@@ -376,3 +376,14 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **[CS50w] Week 0 - HTML, CSS**
 
 > *Project 0 - Search*
+
+---
+**Dia 57<br>16 de Junho de 2022 - Quinta**<br>*300 minutos de estudo*
+> *Project 0 - Search - Finished*
+https://www.youtube.com/watch?v=zbYPSoDhbDg&t=1s
+
+* **[CS50w] Week 0 - HTML, CSS - Ok**
+* **[CS50w] Week 1 - Git - Ok**
+* **[CS50w] Week 2 - Python - Ok**
+
+* **[CS50w] Week 3 - Django**
