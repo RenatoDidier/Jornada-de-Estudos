@@ -379,8 +379,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 ---
 **Dia 57<br>16 de Junho de 2022 - Quinta**<br>*300 minutos de estudo*
-> *Project 0 - Search - Finished*
-https://www.youtube.com/watch?v=zbYPSoDhbDg&t=1s
+> *Project 0 - Search - Finished*<br>https://www.youtube.com/watch?v=zbYPSoDhbDg&t=1s
 
 * **[CS50w] Week 0 - HTML, CSS - Ok**
 * **[CS50w] Week 1 - Git - Ok**
