@@ -386,3 +386,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **[CS50w] Week 2 - Python - Ok**
 
 * **[CS50w] Week 3 - Django**
+
+---
+**Dia 58<br>17 de Junho de 2022 - Sexta**<br>*100 minutos de estudo*
+
+* **[CS50w] Week 3 - Django**
