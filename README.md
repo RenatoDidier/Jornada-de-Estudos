@@ -391,3 +391,13 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 58<br>17 de Junho de 2022 - Sexta**<br>*100 minutos de estudo*
 
 * **[CS50w] Week 3 - Django**
+
+---
+**Dia 59<br>18 de Junho de 2022 - Sábado**<br>*325 minutos de estudo*
+
+> *Project 1 - Wiki*
+
+---
+***Dia 60<br>19 de Junho de 2022 - Domingo**<br>*325 minutos de estudo*
+
+> *Project 1 - Wiki*
