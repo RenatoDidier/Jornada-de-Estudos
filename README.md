@@ -398,12 +398,12 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 > *Project 1 - Wiki*
 
 ---
-***Dia 60<br>19 de Junho de 2022 - Domingo**<br>*325 minutos de estudo*
+**Dia 60<br>19 de Junho de 2022 - Domingo**<br>*325 minutos de estudo*
 
 > *Project 1 - Wiki*
 
 ---
-***Dia 61<br>20 de Junho de 2022 - Segunda**<br>*50 minutos de estudo*
+**Dia 61<br>20 de Junho de 2022 - Segunda**<br>*50 minutos de estudo*
 
 > *Project 1 - Wiki - Finished*
 
