@@ -408,3 +408,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 > *Project 1 - Wiki - Finished*
 
 * **Criando AnkiCards para o Regex.**
+
+---
+**Dia 62<br>21 de Junho de 2022 - Terça**<br>*300 minutos de estudo*
+
+* **[CS50w] Week 4 - SQL, Models, and Migrations**
+
+> *Project 2 - Auction*
