@@ -415,3 +415,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **[CS50w] Week 4 - SQL, Models, and Migrations**
 
 > *Project 2 - Auction*
+
+---
+**Dia 63<br>22 de Junho de 2022 - Quarta**<br>*325 minutos de estudo*
+
+> *Project 2 - Auction*
