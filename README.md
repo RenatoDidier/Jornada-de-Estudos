@@ -420,3 +420,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 63<br>22 de Junho de 2022 - Quarta**<br>*325 minutos de estudo*
 
 > *Project 2 - Auction*
+
+---
+**Dia 64<br>23 de Junho de 2022 - Quitna **<br>*325 minutos de estudo*
+
+* **Regex [25 minutos]**
+
+> *Project 2 - Auction*
