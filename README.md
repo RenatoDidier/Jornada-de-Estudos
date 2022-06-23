@@ -422,7 +422,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 > *Project 2 - Auction*
 
 ---
-**Dia 64<br>23 de Junho de 2022 - Quitna **<br>*325 minutos de estudo*
+**Dia 64<br>23 de Junho de 2022 - Quinta**<br>*325 minutos de estudo*
 
 * **Regex [25 minutos]**
 
