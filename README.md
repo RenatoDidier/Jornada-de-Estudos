@@ -427,3 +427,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Regex [25 minutos]**
 
 > *Project 2 - Auction*
+
+---
+**Dia 65<br>24 de Junho de 2022 - Sexta**<br>*300 minutos de estudo*
+
+> *Project 2 - Auction*
