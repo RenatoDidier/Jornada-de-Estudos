@@ -437,3 +437,9 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 66<br>25 de Junho de 2022 - Sábado**<br>*330 minutos de estudo*
 
 * **[The Ultimate Figma & UI Masterclass] Figma**
+
+
+---
+**Dia 67<br>26 de Junho de 2022 - Sábado**<br>*300 minutos de estudo*
+
+* **[The Ultimate Figma & UI Masterclass] Figma**
