@@ -461,3 +461,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 70<br>30 de Junho de 2022 - Quinta**<br>*280 minutos de estudo*
 
 * **[The Ultimate Figma & UI Masterclass] Figma**
+
+---
+**Dia 71<br>02 de Julho de 2022 - Sábado**<br>*350 minutos de estudo*
+
+* Case [entrevista] - GregHub
