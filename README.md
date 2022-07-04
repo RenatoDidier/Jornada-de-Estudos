@@ -466,3 +466,13 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 71<br>02 de Julho de 2022 - Sábado**<br>*350 minutos de estudo*
 
 * Case [entrevista] - GregHub
+
+---
+**Dia 72<br>03 de Julho de 2022 - Domingo**<br>*325 minutos de estudo*
+
+* Case [entrevista] - GregHub
+
+---
+**Dia 73<br>04 de Julho de 2022 - Segunda**<br>*375 minutos de estudo*
+
+* Case [entrevista] - GregHub
