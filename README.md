@@ -481,3 +481,14 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 74<br>05 de Julho de 2022 - Segunda**<br>*325 minutos de estudo*
 
 * Case [entrevista] - GregHub - Figma
+
+---
+**Dia 75<br>06 de Julho de 2022 - Segunda**<br>*275 minutos de estudo*
+
+* Case [entrevista] - GregHub - Figma
+
+
+---
+**Dia 76<br>07 de Julho de 2022 - Segunda**<br>*250 minutos de estudo*
+
+* Case [entrevista] - GregHub - Figma
