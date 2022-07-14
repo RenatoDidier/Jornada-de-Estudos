@@ -478,17 +478,33 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * Case [entrevista] - GregHub - Figma
 
 ---
-**Dia 74<br>05 de Julho de 2022 - Segunda**<br>*325 minutos de estudo*
+**Dia 74<br>05 de Julho de 2022 - Terça**<br>*325 minutos de estudo*
 
 * Case [entrevista] - GregHub - Figma
 
 ---
-**Dia 75<br>06 de Julho de 2022 - Segunda**<br>*275 minutos de estudo*
+**Dia 75<br>06 de Julho de 2022 - Quarta**<br>*275 minutos de estudo*
 
 * Case [entrevista] - GregHub - Figma
 
 
 ---
-**Dia 76<br>07 de Julho de 2022 - Segunda**<br>*250 minutos de estudo*
+**Dia 76<br>07 de Julho de 2022 - Quinta**<br>*250 minutos de estudo*
 
 * Case [entrevista] - GregHub - Figma
+
+---
+**Dia 77<br>11 de Julho de 2022 - Segunda**<br>*50 minutos de estudo*
+
+- Organização dos projetos no GitHub.
+
+---
+**Dia 78<br>14 de Julho de 2022 - Quinta**<br>*250 minutos de estudo*
+
+* [The Ultimate Figma & UI Masterclass] Figma - **Finalizado**
+
+> Irei dividir minha rotina de estudos para estudar coisas mais relacionadas ao Front End & Back End. **Irei interromper o curso CS50x** pelo fato que ele dá uma maior ênfase ao Python em vez do JavaScript. Cursos atuais:
+* **Master Digital Product Design: UX Research & UI Design** - Front End
+* **The Complete JavaScript Course 2022: From Zero to Expert!** - Back End
+
+
