@@ -507,4 +507,11 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Master Digital Product Design: UX Research & UI Design** - Front End
 * **The Complete JavaScript Course 2022: From Zero to Expert!** - Back End
 
+---
+**Dia 79<br>15 de Julho de 2022 - Sexta**<br>*325 minutos de estudo*
+
+* **Figma - Imitação**
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+* **Execute program - JavaScript Arrays**
+* **Master Digital Product Design: UX Research & UI Design**
 
