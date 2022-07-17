@@ -522,3 +522,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Execute program - JavaScript Arrays**
 
 
+---
+**Dia 81<br>17 de Julho de 2022 - Sábado**<br>*50 minutos de estudo*
+
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+
