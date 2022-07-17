@@ -515,3 +515,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Execute program - JavaScript Arrays**
 * **Master Digital Product Design: UX Research & UI Design**
 
+---
+**Dia 80<br>16 de Julho de 2022 - Sábado**<br>*200 minutos de estudo*
+
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+* **Execute program - JavaScript Arrays**
+
+
