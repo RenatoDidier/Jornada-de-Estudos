@@ -523,7 +523,18 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 
 ---
-**Dia 81<br>17 de Julho de 2022 - Sábado**<br>*50 minutos de estudo*
+**Dia 81<br>17 de Julho de 2022 - Domingo**<br>*50 minutos de estudo*
 
 * **The Complete JavaScript Course 2022: From Zero to Expert!**
 
+---
+**Dia 82<br>18 de Julho de 2022 - Segunda**<br>*325 minutos de estudo*
+
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+* Comecei a estudar coisas relacioandas a Quality Assurance por ter recebido uma proposta de trabalhar 1 mês numa empresa. Estarei em período de avaliação até conseguir mostrar valor no meu trabalho nessa área.
+
+---
+**Dia 83<br>19 de Julho de 2022 - Terça**<br>*250 minutos de estudo*
+
+* **Azure DevOps**
+* **Selenium - JavaScript**
