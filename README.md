@@ -538,3 +538,9 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Azure DevOps**
 * **Selenium - JavaScript**
+
+---
+**Dia 83<br>19 de Julho de 2022 - Terça**<br>*350 minutos de estudo*
+
+* **Selenium - JavaScript**
+* **WebDriverIO - JavaScript**
