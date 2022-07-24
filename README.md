@@ -538,6 +538,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Azure DevOps**
 * **Selenium - JavaScript**
+> Comecei a trabalhar na empresa GregHub como Quality Assurance.
 
 ---
 **Dia 84<br>20 de Julho de 2022 - Quarta**<br>*350 minutos de estudo*
