@@ -540,7 +540,13 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Selenium - JavaScript**
 
 ---
-**Dia 83<br>19 de Julho de 2022 - Terça**<br>*350 minutos de estudo*
+**Dia 84<br>20 de Julho de 2022 - Quarta**<br>*350 minutos de estudo*
 
 * **Selenium - JavaScript**
 * **WebDriverIO - JavaScript**
+
+---
+**Dia 85<br>23 de Julho de 2022 - Sábado**<br>*200 minutos de estudo*
+
+* **Selenium - JavaScript**
+
