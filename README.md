@@ -558,7 +558,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **The Complete JavaScript Course 2022: From Zero to Expert!**
 
 ---
-**Dia 87<br>25 de Julho de 2022 - Domingo**<br>*225 minutos de estudo*
+**Dia 87<br>25 de Julho de 2022 - Segunda**<br>*225 minutos de estudo*
 
 * **The Complete JavaScript Course 2022: From Zero to Expert!**
 * **Selenium - JavaScript**
