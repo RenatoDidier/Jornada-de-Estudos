@@ -551,3 +551,19 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Selenium - JavaScript**
 
+
+---
+**Dia 86<br>24 de Julho de 2022 - Domingo**<br>*75 minutos de estudo*
+
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+
+---
+**Dia 87<br>25 de Julho de 2022 - Domingo**<br>*225 minutos de estudo*
+
+* **The Complete JavaScript Course 2022: From Zero to Expert!**
+* **Selenium - JavaScript**
+
+
+
+
+
