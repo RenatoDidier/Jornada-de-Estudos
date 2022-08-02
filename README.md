@@ -563,6 +563,18 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **The Complete JavaScript Course 2022: From Zero to Expert!**
 * **Selenium - JavaScript**
 
+---
+**Dia 88<br>01 de Agosto de 2022 - Segunda**<br>*325 minutos de estudo*
+
+* **Selenium - Python**
+
+---
+**Dia 89<br>02 de Agosto de 2022 - Segunda**<br>*250 minutos de estudo*
+
+* **Selenium - Python**
+
+
+
 
 
 
