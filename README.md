@@ -564,15 +564,24 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Selenium - JavaScript**
 
 ---
-**Dia 88<br>01 de Agosto de 2022 - Segunda**<br>*325 minutos de estudo*
+**Dia 88<br>30 de Julho de 2022 - Sábado**<br>*250 minutos de estudo*
 
 * **Selenium - Python**
 
 ---
-**Dia 89<br>02 de Agosto de 2022 - Segunda**<br>*250 minutos de estudo*
+**Dia 89<br>31 de Julho de 2022 - Domingo**<br>*200 minutos de estudo*
 
 * **Selenium - Python**
 
+---
+**Dia 90<br>01 de Agosto de 2022 - Segunda**<br>*325 minutos de estudo*
+
+* **Selenium - Python**
+
+---
+**Dia 91<br>02 de Agosto de 2022 - Terça**<br>*250 minutos de estudo*
+
+* **Selenium - Python**
 
 
 
