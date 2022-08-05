@@ -583,6 +583,15 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Selenium - Python**
 
+---
+**Dia 92<br>03 de Agosto de 2022 - Quarta**<br>*250 minutos de estudo*
+
+* **Selenium - Python**
+
+---
+**Dia 93<br>04 de Agosto de 2022 - Quinta**<br>*200 minutos de estudo*
+
+* **Selenium - Python**
 
 
 
