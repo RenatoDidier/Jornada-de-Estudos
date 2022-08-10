@@ -593,7 +593,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Selenium - Python**
 
+---
+**Dia 94<br>10 de Agosto de 2022 - Quarta**<br>*50 minutos de estudo*
 
-
-
+* Tenho usado Selenium - Python regularmente no meu trabalho para fazer testes automatizados. Não computei todo o tempo gasto nos estudos e no uso diário da ferramenta.
+* Irei parar de estudar o curso do JavaScript para estudar outro de Vuejs por ter uma necessidade mais urgente de precisar de um conhecimento mais apurado deste.
+* **Vue - The Complete Guide (inci. Router & Composition API)**
 
