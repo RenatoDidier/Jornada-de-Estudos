@@ -599,4 +599,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * Tenho usado Selenium - Python regularmente no meu trabalho para fazer testes automatizados. Não computei todo o tempo gasto nos estudos e no uso diário da ferramenta.
 * Irei parar de estudar o curso do JavaScript para estudar outro de Vuejs por ter uma necessidade mais urgente de precisar de um conhecimento mais apurado deste.
 * **Vue - The Complete Guide (inci. Router & Composition API)**
+---
+**Dia 95<br>21 de Agosto de 2022 - Sábado**<br>*200 minutos de estudo*
 
+* **FIAP**
