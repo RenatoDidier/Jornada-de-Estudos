@@ -603,3 +603,15 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 95<br>21 de Agosto de 2022 - Sábado**<br>*200 minutos de estudo*
 
 * **FIAP**
+
+---
+**Dia 96<br>22 de Agosto de 2022 - Domingo**<br>*250 minutos de estudo*
+
+* **FIAP**
+* **Problemas de CSS**
+
+---
+**Dia 97<br>23 de Agosto de 2022 - Domingo**<br>*60 minutos de estudo*
+
+* **Execute Program**
+* **Vue.js**
