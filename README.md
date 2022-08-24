@@ -600,18 +600,24 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * Irei parar de estudar o curso do JavaScript para estudar outro de Vuejs por ter uma necessidade mais urgente de precisar de um conhecimento mais apurado deste.
 * **Vue - The Complete Guide (inci. Router & Composition API)**
 ---
-**Dia 95<br>21 de Agosto de 2022 - Sábado**<br>*200 minutos de estudo*
+**Dia 95<br>20 de Agosto de 2022 - Sábado**<br>*200 minutos de estudo*
 
 * **FIAP**
 
 ---
-**Dia 96<br>22 de Agosto de 2022 - Domingo**<br>*250 minutos de estudo*
+**Dia 96<br>21 de Agosto de 2022 - Domingo**<br>*250 minutos de estudo*
 
 * **FIAP**
 * **Problemas de CSS**
 
 ---
-**Dia 97<br>23 de Agosto de 2022 - Domingo**<br>*60 minutos de estudo*
+**Dia 97<br>23 de Agosto de 2022 - Terça**<br>*60 minutos de estudo*
+
+* **Execute Program**
+* **Vue.js**
+
+---
+**Dia 98<br>24 de Agosto de 2022 - Quarta**<br>*210 minutos de estudo*
 
 * **Execute Program**
 * **Vue.js**
