@@ -621,3 +621,9 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Execute Program**
 * **Vue.js**
+
+---
+**Dia 99<br>25 de Agosto de 2022 - Quinta**<br>*130 minutos de estudo*
+
+* **Execute Program**
+* **Vue.js**
