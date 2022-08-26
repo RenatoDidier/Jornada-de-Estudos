@@ -627,3 +627,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Execute Program**
 * **Vue.js**
+
+---
+**Dia 100<br>26 de Agosto de 2022 - Sexta**<br>*50 minutos de estudo*
+
+* **Vue.js**
