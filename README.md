@@ -632,3 +632,9 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 100<br>26 de Agosto de 2022 - Sexta**<br>*50 minutos de estudo*
 
 * **Vue.js**
+
+---
+**Dia 101<br>28 de Agosto de 2022 - Domingo**<br>*150 minutos de estudo*
+
+* **Vue.js**
+* **FIAP**
