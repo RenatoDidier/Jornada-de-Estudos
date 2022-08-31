@@ -638,3 +638,16 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 * **FIAP**
+
+---
+**Dia 102<br>29 de Agosto de 2022 - Segunda**<br>*90 minutos de estudo*
+
+* **Vue.js**
+* **Execute Program**
+
+
+---
+**Dia 103<br>30 de Agosto de 2022 - Terça**<br>*90 minutos de estudo*
+
+* **Vue.js**
+* **Execute Program**
