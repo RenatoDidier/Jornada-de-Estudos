@@ -651,3 +651,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 * **Execute Program**
+
+---
+**Dia 104<br>05 de Setembro de 2022 - Segunda**<br>*50 minutos de estudo*
+
+* Desde o dia 31 de Agosto, comecei a mexer no Front End do meu trabalho.
+* **Vue.js**
+
