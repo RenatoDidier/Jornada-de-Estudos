@@ -657,4 +657,14 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * Desde o dia 31 de Agosto, comecei a mexer no Front End do meu trabalho.
 * **Vue.js**
+---
+**Dia 105<br>24 de Setembro de 2022 - Sábado**<br>*275 minutos de estudo*
+
+* FIAP
+
+---
+**Dia 106<br>25 de Setembro de 2022 - Domingo**<br>*250 minutos de estudo*
+
+* FIAP
+* **Vue.js**
 
