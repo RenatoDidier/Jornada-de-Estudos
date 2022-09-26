@@ -668,3 +668,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * FIAP
 * **Vue.js**
 
+---
+**Dia 107<br>26 de Setembro de 2022 - Segunda**<br>*90 minutos de estudo*
+
+* **Vue.js**
+
