@@ -673,3 +673,9 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 
+---
+**Dia 108<br>27 de Setembro de 2022 - Terça**<br>*80 minutos de estudo*
+
+* **Vue.js**
+
+
