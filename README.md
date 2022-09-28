@@ -678,4 +678,10 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 
+---
+**Dia 109<br>28 de Setembro de 2022 - Quarta**<br>*125 minutos de estudo*
+
+* **Vue.js**
+
+
 
