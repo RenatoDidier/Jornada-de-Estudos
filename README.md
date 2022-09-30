@@ -683,5 +683,15 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 
+---
+**Dia 110<br>29 de Setembro de 2022 - Quinta**<br>*95 minutos de estudo*
+
+* **Vue.js**
+
+---
+**Dia 111<br>30 de Setembro de 2022 - Sexta**<br>*30 minutos de estudo*
+
+* **Vue.js**
+
 
 
