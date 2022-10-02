@@ -694,9 +694,14 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Vue.js**
 
 ---
-**Dia 112<br>01 de Outubro de 2022 - Sexta**<br>*150 minutos de estudo*
+**Dia 112<br>01 de Outubro de 2022 - Sábado**<br>*150 minutos de estudo*
 
 * **Vue.js**
 
 
+---
+**Dia 113<br>02 de Outubro de 2022 - Domingo**<br>*370 minutos de estudo*
+
+* **Vue.js**
+* **FIAP**
 
