@@ -705,3 +705,15 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Vue.js**
 * **FIAP**
 
+---
+**Dia 114<br>03 de Outubro de 2022 - Segunda**<br>*100 minutos de estudo*
+
+* **Vue.js**
+* **FIAP**
+
+
+---
+**Dia 115<br>04 de Outubro de 2022 - Segunda**<br>*50 minutos de estudo*
+
+* **FIAP**
+
