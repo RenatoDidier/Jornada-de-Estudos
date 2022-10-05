@@ -713,7 +713,14 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 
 ---
-**Dia 115<br>04 de Outubro de 2022 - Segunda**<br>*50 minutos de estudo*
+**Dia 115<br>04 de Outubro de 2022 - Terça**<br>*50 minutos de estudo*
 
 * **FIAP**
+
+
+---
+**Dia 116<br>05 de Outubro de 2022 - Quarta**<br>*140 minutos de estudo*
+
+* **FIAP**
+* **Vue.js**
 
