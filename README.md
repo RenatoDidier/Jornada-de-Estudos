@@ -724,3 +724,8 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **FIAP**
 * **Vue.js**
 
+---
+**Dia 117<br>06 de Outubro de 2022 - Quinta**<br>*85 minutos de estudo*
+
+* **Vue.js**
+
