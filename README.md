@@ -729,3 +729,13 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 * **Vue.js**
 
+
+---
+**Dia 118<br>08 de Outubro de 2022 - Sábado**<br>*170 minutos de estudo*
+
+* **Vue.js**
+
+---
+**Dia 118<br>09 de Outubro de 2022 - Domingo**<br>*170 minutos de estudo*
+
+* **Vue.js**
