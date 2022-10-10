@@ -736,6 +736,6 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 * **Vue.js**
 
 ---
-**Dia 118<br>09 de Outubro de 2022 - Domingo**<br>*170 minutos de estudo*
+**Dia 119<br>09 de Outubro de 2022 - Domingo**<br>*170 minutos de estudo*
 
 * **Vue.js**
