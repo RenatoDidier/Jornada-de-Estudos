@@ -739,3 +739,21 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 119<br>09 de Outubro de 2022 - Domingo**<br>*170 minutos de estudo*
 
 * **Vue.js**
+
+
+---
+**Dia 120<br>10 de Outubro de 2022 - Segunda**<br>*20 minutos de estudo*
+
+* **Vue.js**
+
+
+---
+**Dia 121<br>11 de Outubro de 2022 - Terça**<br>*100 minutos de estudo*
+
+* **Vue.js**
+
+
+---
+**Dia 122<br>12 de Outubro de 2022 - Quarta**<br>*150 minutos de estudo*
+
+* Main Project - **Vue.js**
