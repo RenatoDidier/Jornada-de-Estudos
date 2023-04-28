@@ -757,3 +757,17 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 **Dia 122<br>12 de Outubro de 2022 - Quarta**<br>*150 minutos de estudo*
 
 * Main Project - **Vue.js**
+
+---
+
+**27 de Abril de 2023 - Quinta**
+Dentro da empresa, consegue bastante oportunidade para aplicar diariamente Front-End e até desenvolver alguns projetos no Back-End. Não consegui registrar todos os aprendizados contidos. As principais tecnologias usadas foram: Vuejs e C#.
+
+A partir de hoje irei voltar a ter uma rotina diária de estudo além do trabalho em prol de aperfeiçoamento do conhecimento que já possuo. O passo inicial vai ter uma bagagem mais sólida de Javascript.
+
+Ferramentas de estudo: 
+Livro - Eloquent Javascript && Speaking Javascript
+Site anotação - RemNote (+FlashCards)
+Timer - Forest (Pomodoro - 30 Minutos)
+
+Passei o dia organizando o meu computador porque estava com tudo relacionado ao trabalho. 
