@@ -760,7 +760,7 @@ https://www.youtube.com/watch?v=utWRbzWFJUM
 
 ---
 
-**27 de Abril de 2023 - Quinta**
+**Dia - 1 - 27 de Abril de 2023 - Quinta**
 Dentro da empresa, consegue bastante oportunidade para aplicar diariamente Front-End e até desenvolver alguns projetos no Back-End. Não consegui registrar todos os aprendizados contidos. As principais tecnologias usadas foram: Vuejs e C#.
 
 A partir de hoje irei voltar a ter uma rotina diária de estudo além do trabalho em prol de aperfeiçoamento do conhecimento que já possuo. O passo inicial vai ter uma bagagem mais sólida de Javascript.
@@ -771,3 +771,7 @@ Site anotação - RemNote (+FlashCards)
 Timer - Forest (Pomodoro - 30 Minutos)
 
 Passei o dia organizando o meu computador porque estava com tudo relacionado ao trabalho. 
+
+---
+**Dia - 2 - 29 de Abril de 2023 - Sábado**
+60 minutos de estudo - Finalização da organização do Computador e início do estudo do livro de JavaScript Eloquent.
