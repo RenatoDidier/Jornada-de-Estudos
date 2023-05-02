@@ -780,3 +780,7 @@ Passei o dia organizando o meu computador porque estava com tudo relacionado ao 
 ---
 **Dia - 3 - 30 de Abril de 2023 - Domingo**
 90 minutos de estudo - JavaScript Eloquent.
+
+---
+**Dia - 4 - 01 de Maio de 2023 - Segunda**
+150 minutos de estudo - JavaScript Eloquent.
